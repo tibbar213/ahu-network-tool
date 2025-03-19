@@ -1,0 +1,4 @@
+requests==2.31.0
+pillow==10.2.0
+pystray==0.19.5
+pyinstaller==6.4.0 
