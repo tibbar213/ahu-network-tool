@@ -28,7 +28,7 @@
 - Python 3.8+
 - 依赖包见 requirements.txt
 
-## 从源码构建
+## 使用方法
 
 1. 克隆仓库
 ```bash
@@ -40,9 +40,9 @@ git clone https://github.com/yourusername/ahu-network-tool.git
 pip install -r requirements.txt
 ```
 
-3. 打包成exe
+3. 运行
 ```bash
-pyinstaller --noconsole --onefile --icon=icon.ico ahu_network_tool.py
+python ahu_network_tool.py
 ```
 
 ## 注意事项
