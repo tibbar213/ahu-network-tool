@@ -8,6 +8,8 @@
 - 开机自启动
 - 配置文件保存账号密码
 
+![image](https://github.com/user-attachments/assets/8e3d63f8-7f2e-4100-9517-2463ac0bf7ef)
+
 ## 安装
 
 1. 下载最新的发布版本
