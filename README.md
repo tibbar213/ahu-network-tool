@@ -32,7 +32,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/ahu-network-tool.git
+git clone https://github.com/tibbar213/ahu-network-tool.git
 ```
 
 2. 安装依赖
